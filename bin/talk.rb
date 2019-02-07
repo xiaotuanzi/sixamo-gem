@@ -1,5 +1,8 @@
-$LOAD_PATH.unshift(__dir__) unless $LOAD_PATH.include?(__dir__)
+#!/usr/bin/env ruby
 
+#$LOAD_PATH.unshift(__dir__) unless $LOAD_PATH.include?(__dir__)
+
+require 'bundler/setup'
 require 'sixamo'
 
 if $0 == __FILE__

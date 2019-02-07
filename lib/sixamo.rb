@@ -1,4 +1,4 @@
-$LOAD_PATH.unshift(__dir__) unless $LOAD_PATH.include?(__dir__)
+require "sixamo/version"
 
 require 'sixamo/util'
 require 'sixamo/core'

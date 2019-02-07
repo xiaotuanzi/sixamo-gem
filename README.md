@@ -1,3 +1,12 @@
+Sixamo Gem
+==========
+
+Sixamo.rbをGem化したものです。
+https://github.com/hadzimme/sixamo からフォークしてきました。
+
+オリジナルのREADMEは下記のとおりです。
+
+
 Sixamo
 ======
 
